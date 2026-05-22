@@ -1,6 +1,7 @@
-## Hi there 👋
+Senior Frontend Developer / UI Systems Engineer with 18+ years of experience building scalable, accessible, and high-performance web applications. Specializes in component-driven architecture, design systems, and WCAG-compliant UI development. Familiar with modern tooling such as Next.js, Vite; and currently applying modern React and headless CMS approaches to build reusable, flexible frontend systems. Proven track record of improving delivery speed by 60% and elevating team output through standardized UI frameworks and mentorship.
 
 <!--
+## Hi there 👋
 **doylesee/doylesee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
