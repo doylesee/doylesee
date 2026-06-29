@@ -1,5 +1,5 @@
-**Senior Frontend Developer & UI/UX Designer** with 18+ years of experience designing and building accessible, scalable, and high-performance web applications. Specialized in both design and development through end-to-end workflows including wireframing, Figma prototyping, responsive UI systems, and frontend implementation.
-
+Frontend Developer & UI/UX Designer with experience in designing and building accessible, scalable, and high-performance web applications. Specialized in both design and development through end-to-end workflows including wireframing, Figma prototyping, responsive UI systems, and frontend implementation.
+ 
 Experienced in creating WCAG-compliant interfaces, reusable design systems, component-driven web applications, and have successfully led initiatives that reduced project turnaround times by 60% and optimized code review cycles through standardized workflows and technical upskilling.
 
 ### Design & Development
